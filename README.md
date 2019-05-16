@@ -19,4 +19,5 @@ cuda_vec_ADUNARE -> lab4
 cuda_matrix_ADUNARE -> lab4  
 
 
-
+  
+Compile c++ OMP on Linux distro: g++ -fopenmp main.cpp -o main
