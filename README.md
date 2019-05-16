@@ -13,5 +13,10 @@ omp_matrix_INMULTIRE -> lab1
 omp_vec_ADUNARE -> file   
 cuda_max -> lab7  
 cuda_sum -> file  
+cuda_vec_INMULTIRE -> Vas
+cuda_matrix_INMULTIRE -> Vas  
+cuda_vec_ADUNARE -> lab4  
+cuda_matrix_ADUNARE -> lab4  
+
 
 
